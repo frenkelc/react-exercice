@@ -1,0 +1,16 @@
+.row{
+   background: transparent;
+   border: 0;
+}
+
+.box{
+   margin-left: 50px;
+   margin-right: 50px;
+}
+.form {
+   max-width: 300px;
+   margin: auto;
+ }
+ .button {
+   width: 100%;
+ }
